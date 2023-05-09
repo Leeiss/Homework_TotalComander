@@ -204,6 +204,7 @@ namespace Homework_TotalComander
             copy_btn.BackgroundImage = Properties.Resources.violet_substate;
             postpone_btn.BackgroundImage = Properties.Resources.violet_substate;
             createDirectory_btn.BackgroundImage = Properties.Resources.violet_substate;
+            archive_btn.BackgroundImage = Properties.Resources.violet_substate;
             copy_btn.BackgroundImage = Properties.Resources.violet_substate;
             back_btn1.BackgroundImage = Properties.Resources.violet_back;
             back_btn2.BackgroundImage = Properties.Resources.violet_back;
@@ -217,7 +218,8 @@ namespace Homework_TotalComander
             createFail_btn.BackgroundImage = Properties.Resources.black_substrate;
             copy_btn.BackgroundImage = Properties.Resources.black_substrate;
             postpone_btn.BackgroundImage = Properties.Resources.black_substrate;
-             createDirectory_btn.BackgroundImage = Properties.Resources.black_substrate;
+            archive_btn.BackgroundImage = Properties.Resources.black_substrate;
+            createDirectory_btn.BackgroundImage = Properties.Resources.black_substrate;
             copy_btn.BackgroundImage = Properties.Resources.black_substrate;
             back_btn1.BackgroundImage = Properties.Resources.black_back;
             back_btn2.BackgroundImage = Properties.Resources.black_back;
