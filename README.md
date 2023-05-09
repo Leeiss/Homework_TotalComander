@@ -23,19 +23,19 @@ ________
 + У приложения есть возможность персональной настройки цветовой схемы, шрифта и директории по умолчанию.   
 Кликнув на название приложение, можно перейти к выбору характеристик. Выбранные характеристики сохраняются и при повторных запусках программы.    
       
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.png" alt="Основное окно" width="1200"/>  
+<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B8.png" alt="Основное окно" width="800"/>  
 <br>     
  
 
 + Цветовая схема представлена в двух вариантах: фиолетовый-черный и черный-фиолетовый. После выбора цветовой схемы кнопки и текст окрашиваются в соответствующие цвета.       
       
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%86%D0%B2%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.png" alt="Основное окно" width="1200"/>  
+<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%86%D0%B2%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%81%D1%85%D0%B5%D0%BC%D0%B0%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.png" alt="Основное окно" width="1100"/>  
 <br>  
    
 + Выбор шрифта по умолчанию происходит в всплывающем окне. Также есть возможность сбросить характеристики шрифта до начальных. 
 <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%88%D1%80%D0%B8%D1%84%D1%82%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.png" alt="Основное окно" width="1100"/>  
     
- + Выбор директории по умолчанию также происходит в всплывающем окне. После евыбора директории каждый раз при запуске будет выходить по умолчанию файлыБ содержащиеся в ней. 
+ + Выбор директории по умолчанию также происходит в всплывающем окне. После евыбора директории каждый раз при запуске будет выходить по умолчанию файлы, содержащиеся в ней. 
 <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20%D0%BF%D0%BE%20%D1%83%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D1%8E.png" alt="Основное окно" width="1100"/>  
   
 <br>   
@@ -49,14 +49,14 @@ __________
      
 > Просмотр свойств файла:  
 >        
-> <img  src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0.png" alt="Основное окно" width="1100"/>  
+> <img  src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0.png" alt="Основное окно" width="800"/>  
 >      
 > + Измененение названия файла:
-> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="1100"/>     
+> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="800"/>     
  >  
 > + Удаление файла:
 >    
-> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="900"/>   
+> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="800"/>   
   
 + Окно состоит из двух частей. При двойном щелчке на имени каталога, происходит открытие содержимого этого
 каталога. При двойном щелчке на имени файла, происходит открытие этого файла.     
@@ -71,15 +71,15 @@ __________
  
 + Создание файла:    
    
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png" alt="Основное окно" width="1100"/>    
+<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0.png" alt="Основное окно" width="800"/>    
 
  + Cоздание папки:  
    
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B8.png" alt="Основное окно" width="1100"/>   
+<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B8%D1%80%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B8.png" alt="Основное окно" width="800"/>   
 
 + Сжать в архив можно как файл/папку, так и группу файлов/папок/файлов и папок.
    
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F.png" alt="Основное окно" width="1100"/>   
+<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%B0%D1%80%D1%85%D0%B8%D0%B2%D0%B0%D1%86%D0%B8%D1%8F.png" alt="Основное окно" width="800"/>   
 
 + Также можно копировать файл или группу файлов/папок/файлов и папок. Копирование происходит в директорию, активную во второй половине окна.     
    
