@@ -47,16 +47,16 @@ __________
   
 + В приложении предусмотрена возможность работы над выбранным файлом   
      
-Просмотр свойств файла:  
-       
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0.png" alt="Основное окно" width="1100"/>  
-     
-+ Измененение названия файла:
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="1100"/>     
-  
-+ Удаление файла:
-   
-<img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="900"/>   
+> Просмотр свойств файла:  
+>        
+> <img  src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0.png" alt="Основное окно" width="1100"/>  
+>      
+> + Измененение названия файла:
+> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="1100"/>     
+ >  
+> + Удаление файла:
+>    
+> <img src="https://github.com/Leeiss/Homework_TotalComander/blob/master/Homework_TotalComander/Resources/%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5.png" alt="Основное окно" width="900"/>   
   
 + Окно состоит из двух частей. При двойном щелчке на имени каталога, происходит открытие содержимого этого
 каталога. При двойном щелчке на имени файла, происходит открытие этого файла.     
